@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Zapatos",
+        "category": "Rojos",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "10000",
+        "img": "https://unsplash.com/es/fotos/WlB8TsI_th0",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "name": "Pantalones",
+        "category": "Azules",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "10000",
+        "img": "img",
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "name": "Remeras",
+        "category": "marrones",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "10000",
+        "img": "img",
+        "stock": 15
+    },
+    {
+        "id": 4,
+        "name": "Gorros",
+        "category": "Negros",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "10000",
+        "img": "img",
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "name": "Relojes",
+        "category": "Dorados",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "10000",
+        "img": "img",
+        "stock": 15
+    },
+    {
+        "id": 6,
+        "name": "Bufandas",
+        "category": "Amarillas",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": "10000",
+        "img": "img",
+        "stock": 15
+    }
+    
+]
+
+
